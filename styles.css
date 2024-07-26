@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.logo {
+  margin-top: 50px;
+}
+
+.logo img {
+  vertical-align: middle;
+}
+
+.search-container {
+  margin-top: 19px;
+}
+
+.search-bar {
+  width: 400px;
+  padding: 11px;
+  font-size: 17px;
+}
+
+.buttons {
+  margin-top: 11px;
+}
+
+.buttons button {
+  padding: 11px 19px;
+  margin: 5px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.special-searches {
+  margin-top: 31px;
+  background-color: #C2FFFF;
+  padding: 11px;
+}
+
+.special-searches a {
+  margin: 0 17px;
+  text-decoration: none;
+  color: blue;
+}
+
+.links {
+  margin-top: 19px;
+  background-color: #8EC2C2;
+  padding: 11px;
+}
+
+.links a {
+  margin: 0 11px;
+  text-decoration: none;
+  color: blue;
+}
+
+.subscription {
+  margin-top: 19px;
+  background-color: #8EC2C2;
+  padding: 11px;
+}
+
+.subscription label {
+  margin-right: 11px;
+}
+
+.subscription input {
+  padding: 5px;
+}
+
+.subscription button {
+  padding: 5px 11px;
+  cursor: pointer;
+}
+
+.subscription a {
+  margin-left: 11px;
+  text-decoration: none;
+  color: blue;
+}
+
+footer {
+  margin-top: 19px;
+}
